@@ -1,0 +1,265 @@
+,Name,Class,Type,HP,Str,Mag,Skl,Spd,Lck,Def,Res,Growth Stat Total,Mov,Votes,Game,Gender
+0,Micaiah,Light Mage,Magic,40,15.0,80.0,40,35.0,80,20,90,400.0,5,13491,Radiant Dawn,Female
+1,Edward,Myrmidon,Infantry,85,60.0,5.0,65,60.0,50,35,20,380.0,6,1446,Radiant Dawn,Male
+2,Leonardo,Archer,Infantry,60,40.0,15.0,75,35.0,65,35,55,380.0,6,398,Radiant Dawn,Male
+3,Nolan,Fighter,Infantry,60,45.0,20.0,70,60.0,60,35,40,390.0,6,297,Radiant Dawn,Male
+4,Laura,Priest,Magic,45,20.0,70.0,70,70.0,50,20,35,380.0,5,312,Radiant Dawn,Female
+5,Sothe,Rogue,Infantry,30,60.0,20.0,80,45.0,65,20,30,350.0,7,2863,Radiant Dawn,Male
+6,Ilyana,Thunder Mage,Magic,55,45.0,50.0,60,30.0,40,30,50,360.0,5,1858,Radiant Dawn,Female
+7,Aran,Soldier,Infantry,50,75.0,10.0,75,35.0,35,70,25,375.0,6,648,Radiant Dawn,Male
+8,Meg,Armor Sword,Armored,60,35.0,15.0,40,65.0,75,35,50,375.0,5,516,Radiant Dawn,Female
+9,Volug,Wolf,Beast,95,25.0,15.0,35,40.0,90,15,10,325.0,7,838,Radiant Dawn,Male
+10,Tauroneo,Lance General,Armored,55,40.0,5.0,65,50.0,20,45,50,330.0,6,137,Radiant Dawn,Male
+11,Jill,Dracoknight,Flying,50,45.0,15.0,45,65.0,60,35,45,360.0,8,1437,Radiant Dawn,Female
+12,Zihark,Swordmaster,Infantry,55,35.0,10.0,75,70.0,40,25,35,345.0,7,975,Radiant Dawn,Male
+13,Fiona,Lance Knight,Cavalry,45,40.0,15.0,40,60.0,55,55,50,360.0,8,212,Radiant Dawn,Female
+14,Tormod,Fire Sage,Magic,50,55.0,40.0,45,55.0,25,35,45,350.0,8,668,Radiant Dawn,Male
+15,Muarim,Tiger,Beast,60,55.0,5.0,45,20.0,55,35,30,305.0,7,295,Radiant Dawn,Male
+16,Vika,Raven,Beast,60,25.0,50.0,60,60.0,65,15,65,400.0,6,681,Radiant Dawn,Female
+17,Nailah,Wolf Queen,Beast,60,30.0,15.0,20,20.0,45,30,30,250.0,7,1206,Radiant Dawn,Female
+18,Rafiel,Heron,Beast,60,0.0,40.0,10,20.0,60,10,50,250.0,5,149,Radiant Dawn,Male
+19,Black Knight,Black Knight,Armored,0,0.0,0.0,0,0.0,0,0,0,0.0,6,4878,Radiant Dawn,Male
+20,Elincia,Queen,Flying,45,65.0,40.0,50,70.0,60,20,35,385.0,9,2502,Radiant Dawn,Female
+21,Marcia,Falcon Knight,Flying,70,30.0,20.0,40,65.0,50,35,35,345.0,9,835,Radiant Dawn,Female
+22,Nealuchi,Raven,Beast,55,35.0,10.0,40,40.0,80,40,25,325.0,6,47,Radiant Dawn,Male
+23,Leanne,Heron,Beast,60,0.0,40.0,10,20.0,80,10,40,260.0,5,788,Radiant Dawn,Female
+24,Haar,Dragonmaster,Flying,30,70.0,5.0,70,30.0,45,65,20,335.0,9,2678,Radiant Dawn,Male
+25,Brom,Axe General,Armored,80,40.0,5.0,40,30.0,70,60,25,350.0,6,221,Radiant Dawn,Male
+26,Nephenee,Halberdier,Infantry,45,35.0,15.0,70,65.0,40,35,45,350.0,7,5557,Radiant Dawn,Female
+27,Heather,Rogue,Infantry,40,25.0,20.0,50,70.0,75,30,40,350.0,7,599,Radiant Dawn,Female
+28,Lucia,Swordmaster,Infantry,50,25.0,20.0,70,60.0,30,15,50,320.0,7,491,Radiant Dawn,Female
+29,Lethe,Cat,Beast,85,35.0,5.0,30,50.0,45,35,20,305.0,7,836,Radiant Dawn,Female
+30,Mordecai,Tiger,Beast,90,35.0,10.0,25,15.0,80,45,15,315.0,7,635,Radiant Dawn,Male
+31,Geoffrey,Lance Paladin,Cavalry,60,50.0,10.0,60,35.0,30,30,55,330.0,9,422,Radiant Dawn,Male
+32,Kieran,Axe Paladin,Cavalry,75,60.0,15.0,40,30.0,30,60,25,335.0,9,246,Radiant Dawn,Male
+33,Astrid,Bow Paladin,Cavalry,55,40.0,20.0,45,40.0,70,30,50,350.0,9,697,Radiant Dawn,Female
+34,Makalov,Blade Paladin,Cavalry,55,40.0,15.0,40,75.0,45,50,25,345.0,9,131,Radiant Dawn,Male
+35,Danved,Halberdier,Infantry,75,40.0,20.0,30,45.0,60,45,25,340.0,7,140,Radiant Dawn,Male
+36,Calill,Fire Sage,Magic,35,25.0,45.0,60,55.0,55,15,50,340.0,6,132,Radiant Dawn,Female
+37,Ike,Hero,Infantry,65,55.0,10.0,60,35.0,30,40,15,310.0,7,17684,Radiant Dawn,Male
+38,Titania,Axe Paladin,Cavalry,60,60.0,15.0,55,50.0,40,20,30,330.0,9,2588,Radiant Dawn,Female
+39,Soren,Wind Sage,Magic,40,25.0,80.0,60,35.0,35,25,70,370.0,6,3470,Radiant Dawn,Male
+40,Mist,Cleric,Magic,40,25.0,45.0,55,50.0,70,25,40,350.0,7,1391,Radiant Dawn,Female
+41,Rolf,Sniper,Infantry,85,75.0,10.0,45,45.0,35,35,20,350.0,7,482,Radiant Dawn,Male
+42,Boyd,Warrior,Infantry,80,65.0,5.0,45,45.0,40,50,10,340.0,7,614,Radiant Dawn,Male
+43,Oscar,Lance Paladin,Cavalry,50,35.0,20.0,65,60.0,55,30,20,335.0,9,315,Radiant Dawn,Male
+44,Shinon,Sniper,Infantry,50,40.0,15.0,70,65.0,30,45,20,335.0,7,1553,Radiant Dawn,Male
+45,Gatrie,Lance General,Armored,50,60.0,5.0,45,60.0,30,60,35,345.0,6,282,Radiant Dawn,Male
+46,Rhys,Bishop,Magic,40,25.0,65.0,35,35.0,60,20,75,355.0,6,258,Radiant Dawn,Male
+47,Mia,Swordmaster,Infantry,70,45.0,15.0,60,65.0,35,40,25,355.0,7,8946,Radiant Dawn,Female
+48,Ranulf,Cat,Beast,70,30.0,15.0,40,35.0,55,15,10,270.0,7,1578,Radiant Dawn,Male
+49,Kyza,Tiger,Beast,85,40.0,5.0,45,35.0,50,40,15,315.0,7,142,Radiant Dawn,Male
+50,Lyre,Cat,Beast,50,35.0,10.0,65,70.0,50,20,30,330.0,7,460,Radiant Dawn,Female
+51,Reyson,Heron,Beast,65,5.0,30.0,20,20.0,60,20,20,240.0,6,520,Radiant Dawn,Male
+52,Janaff,Hawk,Beast,55,40.0,15.0,45,25.0,50,35,10,275.0,7,299,Radiant Dawn,Male
+53,Ulki,Hawk,Beast,65,25.0,30.0,25,40.0,35,30,25,275.0,7,118,Radiant Dawn,Male
+54,Sigrun,Falcon Knight,Flying,40,45.0,10.0,70,25.0,70,10,50,320.0,9,323,Radiant Dawn,Female
+55,Tanith,Falcon Knight,Flying,35,55.0,15.0,75,40.0,35,40,30,325.0,9,230,Radiant Dawn,Female
+56,Sanaki,Empress,Magic,70,40.0,60.0,60,35.0,55,30,50,400.0,6,1308,Radiant Dawn,Female
+57,Skrimir,Lion,Beast,90,35.0,5.0,35,25.0,20,50,5,265.0,7,244,Radiant Dawn,Male
+58,Tibarn,Hawk King,Beast,75,40.0,5.0,10,20.0,40,40,20,250.0,8,1872,Radiant Dawn,Male
+59,Naesala,Raven King,Beast,40,45.0,15.0,30,45.0,55,15,35,280.0,7,1128,Radiant Dawn,Male
+60,Pelleas,Dark Sage,Magic,35,25.0,55.0,45,60.0,40,30,45,335.0,6,608,Radiant Dawn,Male
+61,Stefan,TrueBlade,Infantry,55,50.0,20.0,60,60.0,15,40,50,350.0,7,675,Radiant Dawn,Male
+62,Oliver,Saint,Magic,65,55.0,35.0,35,45.0,30,30,20,315.0,6,902,Radiant Dawn,Male
+63,Bastian,Arch Sage,Magic,25,20.0,30.0,70,40.0,40,25,50,300.0,6,110,Radiant Dawn,Male
+64,Volke,Assassin,Infantry,50,50.0,5.0,60,65.0,20,45,15,310.0,7,1131,Radiant Dawn,Male
+65,Kurthnaga,Dragon Prince,Beast,95,45.0,15.0,20,35.0,60,25,40,335.0,6,247,Radiant Dawn,Male
+66,Ena,Red Dragon,Beast,50,20.0,50.0,40,40.0,35,15,50,300.0,5,96,Radiant Dawn,Female
+67,Caineghis,Lion King,Beast,50,40.0,10.0,40,20.0,40,30,10,240.0,7,616,Radiant Dawn,Male
+68,Giffca,Lion,Beast,40,35.0,10.0,35,50.0,25,30,15,240.0,7,88,Radiant Dawn,Male
+69,Renning,Gold Knight,Cavalry,40,60.0,10.0,50,40.0,10,70,20,300.0,9,85,Radiant Dawn,Male
+70,Gareth,Red Dragon,Beast,90,40.0,5.0,30,10.0,65,30,25,295.0,5,76,Radiant Dawn,Male
+71,Nasir,White Dragon,Beast,70,15.0,45.0,35,20.0,45,15,40,285.0,5,124,Radiant Dawn,Male
+72,Lehran,Chancellor,Magic,0,0.0,0.0,0,0.0,0,0,0,0.0,6,367,Radiant Dawn,Male
+73,Eirika,Lord,Infantry,70,40.0,,60,60.0,60,30,30,,5,16423,Sacred Stones,Female
+74,Seth,Paladin,Cavalry,90,50.0,,45,45.0,25,40,30,,8,3763,Sacred Stones,Male
+75,Franz,Cavalier,Cavalry,80,40.0,,40,50.0,40,25,20,,7,615,Sacred Stones,Male
+76,Gilliam,Knight,Armored,90,45.0,,35,30.0,30,55,20,,4,1142,Sacred Stones,Male
+77,Moulder,Priest,Magic,70,,40.0,50,40.0,20,25,25,,5,635,Sacred Stones,Male
+78,Vanessa,Pegasus Knight,Flying,50,35.0,,55,60.0,50,20,30,,7,784,Sacred Stones,Female
+79,Ross,Journeyman,Infantry,70,50.0,,35,30.0,40,25,20,,4,2234,Sacred Stones,Male
+80,Garcia,Fighter,Infantry,80,65.0,,40,20.0,40,25,15,,5,1093,Sacred Stones,Male
+81,Neimi,Archer,Infantry,55,45.0,,50,60.0,50,15,35,,5,999,Sacred Stones,Female
+82,Colm,Thief,Infantry,75,40.0,,40,65.0,45,25,20,,6,1267,Sacred Stones,Male
+83,Artur,Monk,Magic,55,50.0,,50,40.0,25,15,55,,5,712,Sacred Stones,Male
+84,Lute,Mage,Magic,45,,65.0,30,45.0,45,15,40,,5,9176,Sacred Stones,Female
+85,Natasha,Cleric,Magic,50,,60.0,25,40.0,60,15,55,,5,421,Sacred Stones,Female
+86,Joshua,Myrmidon,Infantry,80,35.0,,55,55.0,30,20,20,,5,8623,Sacred Stones,Male
+87,Ephraim,Lord,Infantry,80,55.0,,55,45.0,50,35,25,,5,14908,Sacred Stones,Male
+88,Forde,Cavalier,Cavalry,85,40.0,,50,45.0,35,20,25,,7,563,Sacred Stones,Male
+89,Kyle,Cavalier,Cavalry,90,50.0,,40,40.0,20,25,20,,7,262,Sacred Stones,Male
+90,Tana,Pegasus Knight,Flying,65,45.0,,40,65.0,60,20,25,,7,2849,Sacred Stones,Female
+91,Amelia,Recruit,Infantry,60,35.0,,40,40.0,50,30,15,,4,3214,Sacred Stones,Female
+92,Innes,Sniper,Infantry,75,40.0,,40,45.0,45,20,25,,6,1499,Sacred Stones,Male
+93,Gerik,Mercenary,Infantry,90,45.0,,40,30.0,30,35,25,,5,1489,Sacred Stones,Male
+94,Tethys,Dancer,Infantry,85,5.0,,10,70.0,80,30,75,,5,518,Sacred Stones,Female
+95,Marisa,Myrmidon,Infantry,75,30.0,,55,60.0,50,15,25,,5,5398,Sacred Stones,Female
+96,L’Arachel,Troubadour,Magic,45,,50.0,45,45.0,65,15,50,,6,2425,Sacred Stones,Female
+97,Dozla,Berserker,Infantry,85,50.0,,35,40.0,30,30,25,,6,397,Sacred Stones,Male
+98,Saleh,Sage,Magic,50,,30.0,25,40.0,40,30,35,,6,272,Sacred Stones,Male
+99,Ewan,Pupil,Magic,50,,45.0,40,35.0,50,15,40,,4,930,Sacred Stones,Male
+100,Cormag,Wyvern Rider,Flying,85,55.0,,40,45.0,35,25,15,,7,1308,Sacred Stones,Male
+101,Rennac,Rogue,Infantry,65,25.0,,45,60.0,25,25,30,,6,206,Sacred Stones,Male
+102,Duessel,Great Knight,Cavalry,85,55.0,,40,30.0,20,45,30,,6,412,Sacred Stones,Male
+103,Knoll,Shaman,Magic,70,,50.0,40,35.0,20,10,45,,5,997,Sacred Stones,Male
+104,Myrrh,Manakete,Beast,130,90.0,,85,65.0,30,150,30,,6,2317,Sacred Stones,Female
+105,Syrene,Falcoknight,Flying,70,40.0,,50,60.0,30,20,50,,8,208,Sacred Stones,Female
+106,Orson,Paladin,Cavalry,80,55.0,,45,40.0,25,45,30,,8,255,Sacred Stones,Male
+107,Roy,Lord,Infantry,80,40.0,,50,40.0,60,25,30,,5,28982,Binding Blade,Male
+108,Marcus,Paladin,Cavalry,60,25.0,,20,25.0,20,15,20,,8,414,Binding Blade,Male
+109,Allen,Cavalier,Cavalry,85,45.0,,40,45.0,40,25,10,,7,290,Binding Blade,Male
+110,Lance,Cavalier,Cavalry,80,40.0,,45,50.0,35,20,15,,7,303,Binding Blade,Male
+111,Wolt,Archer,Infantry,80,40.0,,50,40.0,40,20,10,,5,969,Binding Blade,Male
+112,Bors,Knight,Armored,90,30.0,,30,40.0,50,35,10,,4,205,Binding Blade,Male
+113,Merlinus,Transporter,Cavalry,100,0.0,,50,50.0,100,20,5,,5,474,Binding Blade,Male
+114,Ellen,Priest,Magic,45,50.0,,30,20.0,70,5,60,,5,162,Binding Blade,Female
+115,Dieck,Mercenary,Infantry,90,40.0,,40,30.0,35,20,15,,5,1176,Binding Blade,Male
+116,Wade,Fighter,Infantry,75,50.0,,45,20.0,45,30,5,,5,71,Binding Blade,Male
+117,Lott,Fighter,Infantry,80,30.0,,30,35.0,30,40,15,,5,3218,Binding Blade,Male
+118,Thany,Pegasus Knight,Flying,45,30.0,,55,60.0,60,10,25,,7,685,Binding Blade,Female
+119,Chad,Thief,Infantry,85,50.0,,50,80.0,60,25,15,,6,475,Binding Blade,Male
+120,Lugh,Mage,Infantry,50,,40.0,50,50.0,35,15,30,,5,1119,Binding Blade,Male
+121,Clarine,Troubadour,Cavalry,40,,30.0,40,50.0,65,10,40,,7,1044,Binding Blade,Female
+122,Rutger,Myrmidon,Infantry,80,30.0,,60,50.0,30,20,20,,5,2297,Binding Blade,Male
+123,Saul,Priest,Magic,60,40.0,,45,45.0,15,15,50,,5,290,Binding Blade,Male
+124,Dorothy,Archer,Infantry,85,50.0,,45,45.0,35,15,15,,5,271,Binding Blade,Female
+125,Sue,Nomad,Cavalry,55,30.0,,55,65.0,50,10,15,,7,562,Binding Blade,Female
+126,Zealot,Paladin,Cavalry,75,25.0,,20,20.0,15,30,15,,8,60,Binding Blade,Male
+127,Treck,Cavalier,Cavalry,85,40.0,,30,35.0,50,30,5,,7,192,Binding Blade,Male
+128,Noah,Cavalier,Cavalry,75,30.0,,45,30.0,40,30,10,,7,347,Binding Blade,Male
+129,Astohl,Thief,Infantry,90,35.0,,40,50.0,15,20,20,,6,64,Binding Blade,Male
+130,Lilina,Mage,Infantry,45,,75.0,20,35.0,50,10,35,,5,5730,Binding Blade,Female
+131,Wendy,Knight,Armored,85,40.0,,40,40.0,45,30,10,,4,648,Binding Blade,Female
+132,Barth,Knight,Armored,100,60.0,,25,20.0,20,40,2,,4,117,Binding Blade,Male
+133,Oujay,Mercenary,Infantry,85,40.0,,30,45.0,55,20,15,,5,232,Binding Blade,Male
+134,Fir,Myrmidon,Infantry,75,25.0,,50,55.0,50,15,20,,5,1818,Binding Blade,Female
+135,Shin,Nomad,Cavalry,75,45.0,,50,50.0,25,10,15,,7,237,Binding Blade,Male
+136,Gonzales,Bandit,Infantry,90,60.0,,15,50.0,35,25,5,,5,767,Binding Blade,Male
+137,Geese,Pirate,Infantry,85,50.0,,30,40.0,40,20,10,,5,267,Binding Blade,Male
+138,Klein,Sniper,Infantry,60,35.0,,40,45.0,50,15,25,,6,258,Binding Blade,Male
+139,Tate,Pegasus Knight,Flying,60,40.0,,45,55.0,40,15,20,,7,685,Binding Blade,Female
+140,Lalum,Dancer,Infantry,70,10.0,,5,70.0,80,20,30,,5,131,Binding Blade,Female
+141,Echidna,Hero,Infantry,75,30.0,,25,30.0,20,15,15,,6,662,Binding Blade,Female
+142,Elphin,Bard,Infantry,80,5.0,,5,65.0,65,25,55,,5,83,Binding Blade,Male
+143,Bartre,Warrior,Infantry,70,40.0,,20,30.0,20,20,5,,6,159,Binding Blade,Male
+144,Ray,Shaman,Magic,55,,45.0,55,40.0,15,15,35,,5,940,Binding Blade,Male
+145,Cath,Thief,Infantry,80,40.0,,45,85.0,50,15,20,,6,300,Binding Blade,Female
+146,Miredy,Wyvern Rider,Flying,75,50.0,,50,45.0,25,20,5,,7,545,Binding Blade,Female
+147,Percival,Paladin,Cavalry,75,30.0,,25,35.0,20,20,10,,8,677,Binding Blade,Male
+148,Cecilia,Valkyria,Cavalry,60,,35.0,45,25.0,25,20,25,,8,1029,Binding Blade,Female
+149,Sofiya,Shaman,Magic,60,,55.0,40,30.0,20,20,55,,5,3150,Binding Blade,Female
+150,Igrene,Sniper,Infantry,70,35.0,,25,35.0,20,10,5,,6,322,Binding Blade,Female
+151,Garret,Berserker,Infantry,70,45.0,,25,25.0,15,15,5,,6,52,Binding Blade,Male
+152,Fa,Mamkute,Beast,130,90.0,,85,65.0,150,30,50,,5,1332,Binding Blade,Female
+153,Hugh,Mage,Magic,75,,30.0,30,45.0,25,20,15,,5,538,Binding Blade,Male
+154,Zeis,Wyvern Rider,Flying,80,60.0,,50,35.0,20,25,5,,7,308,Binding Blade,Male
+155,Douglas,General,Armored,60,30.0,,30,30.0,20,30,5,,5,162,Binding Blade,Male
+156,Niime,Druid,Magic,25,,15.0,15,15.0,5,15,20,,6,167,Binding Blade,Female
+157,Dayan,Nomadic Trooper,Cavalry,55,20.0,,20,15.0,20,10,10,,8,39,Binding Blade,Male
+158,Juno,Falcon Knight,Flying,50,20.0,,35,30.0,45,10,10,,8,108,Binding Blade,Female
+159,Yodel,Bishop,Magic,20,,30.0,15,10.0,20,10,20,,6,52,Binding Blade,Male
+160,Karel,Swordmaster,Infantry,210,130.0,,140,140.0,120,110,100,,6,270,Binding Blade,Male
+161,Marth,Lord,Infantry,40,35.0,5.0,20,,70,15,7,,7,15877,Shadow Dragon,Male
+162,Frey,Cavalier,Cavalry,40,20.0,5.0,30,,45,5,5,,9,197,Shadow Dragon,Male
+163,Abel,Cavalier,Cavalry,25,25.0,5.0,25,,25,5,5,,9,961,Shadow Dragon,Male
+164,Cain,Cavalier,Cavalry,35,20.0,5.0,25,,40,5,5,,9,1172,Shadow Dragon,Male
+165,Jagen,Paladin,Cavalry,0,5.0,10.0,10,,30,5,5,,10,724,Shadow Dragon,Male
+166,Gordin,Archer,Infantry,20,10.0,0.0,20,,40,20,5,,5,526,Shadow Dragon,Male
+167,Draug,Knight,Armored,0,5.0,5.0,20,,30,0,0,,5,220,Shadow Dragon,Male
+168,Norne,Archer,Infantry,20,15.0,0.0,20,,30,10,5,,5,371,Shadow Dragon,Female
+169,Shiida,Pegasus Knight,Flying,10,10.0,5.0,40,,70,0,0,,8,5496,Shadow Dragon,Female
+170,Wrys,Curate,Magic,0,5.0,10.0,5,,40,5,15,,5,2336,Shadow Dragon,Male
+171,Ogma,Mercenary,Infantry,30,20.0,0.0,15,,40,15,5,,7,2229,Shadow Dragon,Male
+172,Barst,Fighter,Infantry,0,0.0,0.0,25,,40,15,0,,6,681,Shadow Dragon,Male
+173,Bord,Fighter,Infantry,10,15.0,0.0,30,,35,10,0,,6,180,Shadow Dragon,Male
+174,Cord,Fighter,Infantry,0,10.0,10.0,5,,40,10,10,,6,168,Shadow Dragon,Male
+175,Castor,Hunter,Infantry,0,20.0,5.0,25,,20,15,0,,6,136,Shadow Dragon,Male
+176,Darros,Pirate,Infantry,10,20.0,0.0,5,,40,30,0,,6,130,Shadow Dragon,Male
+177,Julian,Thief,Infantry,50,40.0,0.0,20,,80,25,12,,7,515,Shadow Dragon,Male
+178,Lena,Cleric,Infantry,-5,0.0,15.0,10,,60,0,20,,5,372,Shadow Dragon,Female
+179,Nabarl,Myrmidon,Infantry,40,20.0,5.0,20,,40,5,0,,7,2439,Shadow Dragon,Male
+180,Merric,Mage,Magic,40,0.0,10.0,30,,45,20,10,,6,1639,Shadow Dragon,Male
+181,Matthis,Cavalier,Cavalry,50,25.0,0.0,5,,30,15,5,,9,142,Shadow Dragon,Male
+182,Hardin,Cavalier,Cavalry,10,15.0,0.0,30,,30,5,5,,9,352,Shadow Dragon,Male
+183,Wolf,Horseman,Cavalry,120,80.0,5.0,70,,50,60,0,,9,187,Shadow Dragon,Male
+184,Sedgar,Horseman,Cavalry,120,60.0,5.0,80,,30,80,0,,9,127,Shadow Dragon,Male
+185,Roshea,Cavalier,Cavalry,50,25.0,0.0,30,,10,5,5,,9,86,Shadow Dragon,Male
+186,Vyland,Cavalier,Cavalry,20,15.0,0.0,0,,30,0,5,,9,409,Shadow Dragon,Male
+187,Wendell,Sage,Magic,20,0.0,0.0,0,,40,5,15,,6,178,Shadow Dragon,Male
+188,Rickard,Thief,Infantry,20,40.0,0.0,0,,40,5,12,,7,63,Shadow Dragon,Male
+189,Athena,Myrmidon,Infantry,25,15.0,5.0,20,,25,5,0,,7,223,Shadow Dragon,Female
+190,Bantu,Manakete,Beast,-10,0.0,0.0,-10,,10,0,5,,6,78,Shadow Dragon,Male
+191,Caesar,Mercenary,Infantry,30,20.0,10.0,10,,20,10,5,,7,130,Shadow Dragon,Male
+192,Radd,Myrmidon,Infantry,30,30.0,0.0,15,,40,15,0,,7,69,Shadow Dragon,Male
+193,Roger,Knight,Armored,10,35.0,0.0,10,,80,0,5,,5,66,Shadow Dragon,Male
+194,Jeorge,Sniper,Infantry,0,10.0,5.0,30,,20,0,5,,7,810,Shadow Dragon,Male
+195,Maria,Cleric,Magic,-5,0.0,10.0,10,,75,-5,20,,5,278,Shadow Dragon,Female
+196,Minerva,Dracoknight,Flying,0,25.0,0.0,30,,40,20,0,,10,2561,Shadow Dragon,Female
+197,Linde,Mage,Magic,20,0.0,20.0,20,,60,0,5,,6,1396,Shadow Dragon,Female
+198,Jake,Ballistician,Armored,0,10.0,0.0,40,,50,0,5,,4,160,Shadow Dragon,Male
+199,Midia,Paladin,Cavalry,40,15.0,0.0,25,,10,5,5,,10,102,Shadow Dragon,Female
+200,Dolph,Knight,Armored,10,15.0,5.0,20,,10,15,0,,5,72,Shadow Dragon,Male
+201,Macellan,Knight,Armored,0,20.0,0.0,5,,30,0,5,,5,67,Shadow Dragon,Male
+202,Tomas,Archer,Infantry,25,15.0,0.0,10,,25,0,10,,5,57,Shadow Dragon,Male
+203,Boah,Bishop,Magic,-10,0.0,0.0,0,,20,0,10,,6,36,Shadow Dragon,Male
+204,Horace,General,Armored,0,0.0,5.0,15,,15,5,0,,6,139,Shadow Dragon,Male
+205,Beck,Ballistician,Armored,20,5.0,0.0,20,,35,5,5,,4,97,Shadow Dragon,Male
+206,Astram,Hero,Infantry,30,30.0,5.0,15,,50,5,5,,8,140,Shadow Dragon,Male
+207,Palla,Pegasus Knight,Flying,30,45.0,0.0,50,,10,15,10,,8,695,Shadow Dragon,Female
+208,Catria,Pegasus Knight,Flying,30,35.0,0.0,60,,40,15,5,,8,1455,Shadow Dragon,Female
+209,Arran,Paladin,Cavalry,10,35.0,0.0,5,,40,0,10,,10,138,Shadow Dragon,Male
+210,Samson,Hero,Infantry,10,15.0,5.0,0,,55,10,5,,8,102,Shadow Dragon,Male
+211,Xane,Chameleon,Infantry,0,0.0,10.0,0,,20,0,17,,6,688,Shadow Dragon,Male
+212,Etzel,Sorcerer,Magic,20,0.0,10.0,20,,20,5,10,,6,452,Shadow Dragon,Male
+213,Est,Pegasus Knight,Flying,10,45.0,0.0,40,,50,10,5,,8,217,Shadow Dragon,Female
+214,Tiki,Manakete,Beast,40,30.0,0.0,50,,90,10,12,,6,4431,Shadow Dragon,Female
+215,Lorenz,General,Armored,10,35.0,0.0,50,,40,0,5,,6,292,Shadow Dragon,Male
+216,Ymir,Warrior,Infantry,10,10.0,0.0,10,,25,10,0,,7,114,Shadow Dragon,Male
+217,Elice,Cleric,Magic,40,0.0,20.0,35,,80,10,0,,5,392,Shadow Dragon,Female
+218,Nagi,Manakete,Beast,40,30.0,0.0,50,,90,10,12,,6,211,Shadow Dragon,Female
+219,Gotoh,Sage,Magic,40,0.0,0.0,30,,80,0,10,,6,94,Shadow Dragon,Male
+220,Byleth,Noble/Commoner,Infantry,45,45.0,35.0,45,45.0,45,35,30,325.0,5,10410,Three Houses,Male
+221,Byleth,Noble/Commoner,Infantry,45,45.0,35.0,45,45.0,45,35,30,325.0,5,35255,Three Houses,Female
+222,Sothis (NPC),Noble/Commoner,Infantry,35,30.0,65.0,40,40.0,65,30,60,365.0,5,6967,Three Houses,Female
+223,Edelgard,Noble/Commoner,Infantry,40,55.0,45.0,45,40.0,30,35,35,325.0,5,74617,Three Houses,Female
+224,Hubert,Noble/Commoner,Infantry,35,30.0,55.0,45,45.0,35,25,40,310.0,5,2453,Three Houses,Male
+225,Dorothea,Noble/Commoner,Infantry,40,20.0,40.0,45,40.0,35,15,35,270.0,5,15212,Three Houses,Female
+226,Ferdinand,Noble/Commoner,Infantry,50,45.0,20.0,40,50.0,40,35,20,300.0,5,4584,Three Houses,Male
+227,Bernadetta,Noble/Commoner,Infantry,35,35.0,20.0,55,50.0,25,20,30,270.0,5,37400,Three Houses,Female
+228,Caspar,Noble/Commoner,Infantry,55,45.0,25.0,45,45.0,40,30,20,305.0,5,2987,Three Houses,Male
+229,Petra,Noble/Commoner,Infantry,45,40.0,25.0,50,60.0,45,30,15,310.0,5,4374,Three Houses,Female
+230,Linhardt,Noble/Commoner,Infantry,30,30.0,45.0,40,40.0,45,30,45,305.0,5,4591,Three Houses,Male
+231,Dimitri,Noble/Commoner,Infantry,55,60.0,20.0,50,50.0,25,40,20,320.0,5,69448,Three Houses,Male
+232,Dedue,Noble/Commoner,Infantry,60,50.0,15.0,30,20.0,25,50,10,260.0,5,3495,Three Houses,Male
+233,Felix,Noble/Commoner,Infantry,45,55.0,30.0,45,55.0,40,30,20,320.0,5,12137,Three Houses,Male
+234,Mercedes,Noble/Commoner,Infantry,30,25.0,50.0,45,40.0,30,25,45,290.0,5,2980,Three Houses,Male
+235,Ashe,Noble/Commoner,Infantry,35,35.0,25.0,55,50.0,40,20,35,295.0,5,9288,Three Houses,Female
+236,Annette,Noble/Commoner,Infantry,25,30.0,50.0,50,35.0,35,20,30,275.0,5,5165,Three Houses,Female
+237,Sylvain,Noble/Commoner,Infantry,55,45.0,30.0,35,50.0,35,40,25,315.0,5,9132,Three Houses,Male
+238,Ingrid,Noble/Commoner,Infantry,40,35.0,35.0,40,60.0,45,30,40,325.0,5,5543,Three Houses,Female
+239,Claude,Noble/Commoner,Infantry,35,40.0,25.0,60,55.0,45,30,25,315.0,5,59751,Three Houses,Male
+240,Lorenz,Noble/Commoner,Infantry,55,40.0,40.0,45,40.0,25,30,40,315.0,5,2668,Three Houses,Male
+241,Hilda,Noble/Commoner,Infantry,50,45.0,25.0,30,50.0,35,35,20,290.0,5,11702,Three Houses,Female
+242,Raphael,Noble/Commoner,Infantry,65,50.0,15.0,35,15.0,35,45,10,270.0,5,1115,Three Houses,Male
+243,Lysithea,Noble/Commoner,Infantry,20,15.0,60.0,60,50.0,15,10,25,255.0,5,42462,Three Houses,Female
+244,Ignatz,Noble/Commoner,Infantry,35,35.0,30.0,50,50.0,55,25,35,315.0,5,995,Three Houses,Male
+245,Marianne,Noble/Commoner,Infantry,35,20.0,50.0,40,40.0,35,15,45,280.0,5,14105,Three Houses,Female
+246,Leonie,Noble/Commoner,Infantry,40,40.0,20.0,55,60.0,40,40,15,310.0,5,2503,Three Houses,Female
+247,Rhea (NPC),Noble/Commoner,Infantry,45,35.0,45.0,40,40.0,40,30,40,315.0,5,5627,Three Houses,Female
+248,Manuela,Noble/Commoner,Infantry,50,35.0,35.0,40,60.0,35,30,25,310.0,5,1133,Three Houses,Female
+249,Hanneman,Noble/Commoner,Infantry,40,30.0,55.0,45,20.0,35,25,40,290.0,5,249,Three Houses,Male
+250,Seteth,Noble/Commoner,Infantry,50,45.0,35.0,50,50.0,25,30,25,310.0,5,2954,Three Houses,Male
+251,Flayn,Noble/Commoner,Infantry,25,25.0,55.0,45,35.0,15,25,50,275.0,5,3016,Three Houses,Female
+252,Cyril,Noble/Commoner,Infantry,35,20.0,15.0,40,40.0,30,10,10,200.0,5,673,Three Houses,Male
+253,Jeralt (NPC),Noble/Commoner,Infantry,50,45.0,20.0,45,40.0,25,35,35,295.0,5,1098,Three Houses,Male
+254,Catherine,Noble/Commoner,Infantry,50,50.0,25.0,40,55.0,30,30,20,300.0,5,1232,Three Houses,Female
+255,Alois,Noble/Commoner,Infantry,45,45.0,20.0,35,40.0,30,40,20,275.0,5,564,Three Houses,Male
+256,Gilbert,Noble/Commoner,Infantry,55,45.0,20.0,45,30.0,15,45,10,265.0,5,120,Three Houses,Male
+257,Shamir,Noble/Commoner,Infantry,35,40.0,20.0,55,40.0,55,20,15,280.0,5,4452,Three Houses,Female
+258,Yuri,Noble/Commoner,Infantry,30,40.0,35.0,40,65.0,45,30,35,320.0,5,9852,Three Houses,Male
+259,Balthus,Noble/Commoner,Infantry,50,50.0,30.0,25,30.0,20,45,30,280.0,5,1147,Three Houses,Male
+260,Constance,Noble/Commoner,Infantry,20,20.0,60.0,30,35.0,15,15,30,225.0,5,3522,Three Houses,Female
+261,Hapi,Noble/Commoner,Infantry,35,35.0,45.0,45,40.0,20,15,45,280.0,5,3034,Three Houses,Female
+262,Jeritza,Noble/Commoner,Infantry,50,50.0,35.0,35,60.0,30,40,25,325.0,5,935,Three Houses,Male
+263,Anna,Noble/Commoner,Infantry,35,35.0,35.0,45,55.0,45,30,40,320.0,5,1292,Three Houses,Female
